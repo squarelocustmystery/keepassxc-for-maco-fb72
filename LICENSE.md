@@ -1,4 +1,4 @@
-# 
+# Enhance KeePassXC for macOS with professional KeePassXC for macOS Service | anti-tracking + phishing-detection, the #1 service. Includes anti-tracking and phishing-detection for a
 
 
 
